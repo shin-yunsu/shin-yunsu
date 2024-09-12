@@ -38,8 +38,11 @@
   <br>
   <h2>🛠️ Technologies & Tools:</h2>
   <p>Technologies that I use!</p>
-  <img src="https://img.shields.io/badge/react-A8B9CC?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  <img src="https://img.shields.io/badge/html-00599C?style=for-the-badge&logo=HTML&logoColor=white" alt="C++" /><br>
-  <img src="https://img.shields.io/badge/nest-3776AB?style=for-the-badge&logo=nest&logoColor=white" alt="nest" />
-  <img src="https://img.shields.io/badge/next-ED8B00?style=for-the-badge&logo=next&logoColor=white" alt="next" />
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /><br>
+  <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next" /><br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
