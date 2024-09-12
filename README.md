@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td width="50%" align="right"><strong>2024 (3 months)</strong></td>
-      <td width="50%">다올 투자증권 인턴</td>
+      <td width="50%">-</td>
     </tr>
     <tr>
       <td colspan="2" align="center">▼</td>
