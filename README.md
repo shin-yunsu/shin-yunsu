@@ -39,7 +39,7 @@
   <h2>🛠️ Technologies & Tools:</h2>
   <p>Technologies that I use!</p>
   <img src="https://img.shields.io/badge/react-A8B9CC?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  <img src="https://img.shields.io/badge/html-00599C?style=for-the-badge&logo=html&logoColor=white" alt="C++" /><br>
+  <img src="https://img.shields.io/badge/html-00599C?style=for-the-badge&logo=HTML&logoColor=white" alt="C++" /><br>
   <img src="https://img.shields.io/badge/nest-3776AB?style=for-the-badge&logo=nest&logoColor=white" alt="nest" />
   <img src="https://img.shields.io/badge/next-ED8B00?style=for-the-badge&logo=next&logoColor=white" alt="next" />
 </div>
