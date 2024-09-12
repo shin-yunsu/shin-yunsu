@@ -1,0 +1,19 @@
+name: Install jq
+
+on: [push]
+
+jobs:
+  install_jq:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Test jq installation
+        run: |
+          jq --version
