@@ -1,11 +1,11 @@
 
-<h1 align="center">Woojung, Song's Github Page</h1>
+<h1 align="center">Yunsu, Shin's Github Page</h1>
 <p align="center">
   <img src="[(https://avatars.githubusercontent.com/u/105193807?s=96&v=4)" width="150" style="border-radius: 50%;">
 </p>
 <p align="center">
-  <img align='center' src="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
+  <img align='center' src="http://mazandi.herokuapp.com/api?handle=ys10&theme=cold">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10">
 </p>
 <p align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600"> -->
