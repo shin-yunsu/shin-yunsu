@@ -5,10 +5,10 @@
 </p>
 <div align="center">   
   <hr>
-  <h3>👋 Hi, I'm Yunsu Shin!</h3>
+  <h3>👋 I'm Yunsu Shin!</h3>
   
-  <p>🎓 Studying Information System at Hanyang University</p>
-  <hr>
+  <p>🎓 Studying Information System, CS at Hanyang University</p>
+<!--   <hr>
     <h2 align="center">🚀 My Journey</h2>
   <table>
     <tr>
@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">▼</td>
-    </tr>
+    </tr> -->
 <!--     <tr>
       <td width="50%" align="right"><strong>2024 (3 months)</strong></td>
       <td width="50%">-</td>
@@ -25,7 +25,7 @@
     <tr>
       <td colspan="2" align="center">▼</td>
     </tr> -->
-  </table>
+<!--   </table> -->
 
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
