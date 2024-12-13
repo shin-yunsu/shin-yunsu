@@ -5,32 +5,11 @@
 </p>
 <div align="center">   
   <hr>
-  <h3>👋 I'm Yunsu Shin!</h3>
-  
-  <p>🎓 Studying Information System, CS at Hanyang University</p>
-<!--   <hr>
-    <h2 align="center">🚀 My Journey</h2>
-  <table>
-    <tr>
-      <td width="50%" align="right"><strong>2024 - Present</strong></td>
-      <td width="50%">한양대학교 정보시스템학과 입학</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">▼</td>
-    </tr> -->
-<!--     <tr>
-      <td width="50%" align="right"><strong>2024 (3 months)</strong></td>
-      <td width="50%">-</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">▼</td>
-    </tr> -->
-<!--   </table> -->
-
- <br>
+  <h3>👋 안녕하세요. 풀스택 개발자 신윤수입니다!</h3>
+  <p>🎓 Studying Information System at Hanyang University</p>
+ <br>  
  
 <h2>🛠️ Technologies & Tools:</h2>
-
 <h3>Frontend:</h3>
 <div>
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
