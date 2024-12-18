@@ -5,7 +5,7 @@
 </p>
 <div align="center">   
   <hr>
-  <h3>👋 안녕하세요. 풀스택 개발자 신윤수입니다!</h3>
+  <h3>👋 안녕하세요. 개발자 신윤수입니다!</h3>
   <p>🎓 Studying Information System at Hanyang University</p>
  <br>  
  
