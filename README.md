@@ -6,7 +6,8 @@
 <div align="center">   
   <hr>
   <h3>👋 안녕하세요. 개발자 신윤수입니다!</h3>
-  <p>🎓 Studying Information System at Hanyang University</p>
+  <p>🎓 한양대학교 정보시스템학과</p>
+  <p>웹캐시 프론트 웹/앱 개발자</p>
  <br>  
  
 <h2>🛠️ Technologies & Tools:</h2>
