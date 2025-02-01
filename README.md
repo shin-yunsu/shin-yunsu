@@ -1,6 +1,8 @@
 <h1 align="center">Yunsu, Shin's Github Page</h1>
 <p align="center">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysko-chg&layout=compact&theme=transparent" />
+
 </p>
 <div align="center">   
   <hr>
