@@ -1,7 +1,7 @@
 # 안녕하세요 신윤수입니다 👋
 
 ![백준 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sysys10&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-yunsu&layout=compact&theme=transparent)
 
 ---
 
