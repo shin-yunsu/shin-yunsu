@@ -5,9 +5,9 @@
 </p>
 <div align="center">   
   <hr>
-  <h3>안녕하세요. 항상 발전하고 싶은 개발자 신윤수입니다!</h3>
+  <h3>안녕하세요. 항상 발전하고 싶은 엔지니어 신윤수입니다!</h3>
   <p>한양대학교 정보시스템학과</p>
-  <p>Lion Rocket 웹/앱 개발자</p>
+  <p>Lion Rocket 풀스택 개발자</p>
   <br>
   
   ## 💼 Intern Experience:
