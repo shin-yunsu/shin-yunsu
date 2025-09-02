@@ -10,7 +10,9 @@
   <p>Lion Rocket 풀스택 개발자</p>
   <br>
   
-  ## 💼 Intern Experience:
+  <h2>  
+  💼 Intern Experience:
+  </h2> 
   - **Lion Rocket GENVAS Lite** - AI 기반 웹툰 제작 플랫폼 풀스택 개발
     - 웹툰 제작 속도 10배 향상, 비용 50% 절감 솔루션
     - 단 10개 이미지로 캐릭터 일관성 유지 기술 구현
@@ -18,9 +20,11 @@
     - 실시간 자금 현황 모니터링 및 음성 기반 재무 리포팅
     - 100억원 규모 투자 프로젝트 참여
 
-  ## 🏆 Awards & Achievements:
-  - **1st Place** - 2025 예비예술인 프로젝트 <ArtTech for L.I.F.E> 해커톤
-  - **1st Place** - Blaybus MVP 해커톤
+  <h2>  
+  🏆 Awards & Achievements:
+  </h2> 
+  - **1st Place** - 2025 예비예술인 프로젝트 <ArtTech for L.I.F.E> 해커톤 🥇
+  - **1st Place** - Blaybus MVP 해커톤 🥇
 
   <h2>🛠️ Technologies & Tools:</h2>
   <h3>Frontend:</h3>
