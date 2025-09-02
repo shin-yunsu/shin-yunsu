@@ -13,10 +13,10 @@
   <h2>  
   💼 Intern Experience:
   </h2>    <br>
-  - **Lion Rocket GENVAS Lite** - AI 기반 웹툰 제작 플랫폼 풀스택 개발   <br>
+  - Lion Rocket GENVAS Lite - AI 기반 웹툰 제작 플랫폼 풀스택 개발   <br>
     - 웹툰 제작 속도 10배 향상, 비용 50% 절감 솔루션   <br>
     - 단 10개 이미지로 캐릭터 일관성 유지 기술 구현   <br>   <br>
-  - **Webcash AICFO** - CEO/CFO 전용 AI 자금 비서 서비스 풀스택 개발   <br>
+  - Webcash AICFO - CEO/CFO 전용 AI 자금 비서 서비스 풀스택 개발   <br>
     - 실시간 자금 현황 모니터링 및 음성 기반 재무 리포팅   <br>
     - 100억원 규모 투자 프로젝트 참여   <br>
    <br>   <br>
