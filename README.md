@@ -1,49 +1,47 @@
-<h1 align="center">안녕하세요 신윤수입니다.</h1>
-<p align="center">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysys10&layout=compact&theme=transparent" />
-</p>
-<div align="center">   
-  <hr>
-  <h3>안녕하세요. 항상 발전하고 싶은 엔지니어 신윤수입니다!</h3>
-  <p>한양대학교 정보시스템학과</p>
-  <p>Lion Rocket 풀스택 개발자</p>
-  <br>
-  
-  <h2>  
-  💼 Intern Experience:
-  </h2>    <br>
-  - Lion Rocket GENVAS Lite - AI 기반 웹툰 제작 플랫폼 풀스택 개발 (1개월)  <br>
-  - Webcash AICFO - CEO/CFO 전용 AI 자금 비서 서비스 풀스택 개발 (8개월)  <br>
-   <br> 
-  <h2>  
-  🏆 Awards & Achievements:
-  </h2> 
-   <br> 
-  2025 예비예술인 프로젝트 <ArtTech for L.I.F.E> 해커톤 🥇
-  Blaybus MVP 해커톤 🥇
- <br> 
-  
-  <h2>🛠️ Technologies & Tools:</h2>
-  <h3>Frontend:</h3>
-  <div>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-    <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react-native" />
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  </div>
-  <h3>Backend:</h3>
-  <div>
-    <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest" />
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-    <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" />
-    <br>
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-  </div>
-</div>
+# 안녕하세요 신윤수입니다 👋
+
+![백준 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sysys10&layout=compact&theme=transparent)
+
+---
+
+## 소개
+**항상 발전하고 싶은 엔지니어 신윤수입니다!**
+
+- 🎓 한양대학교 정보시스템학과
+- 💻 Lion Rocket 풀스택 개발자
+
+## 💼 인턴 경력
+
+### Lion Rocket
+**GENVAS Lite** - AI 기반 웹툰 제작 플랫폼 풀스택 개발 (1개월)
+
+### Webcash
+**AICFO** - CEO/CFO 전용 AI 자금 비서 서비스 풀스택 개발 (8개월)
+
+## 🏆 수상 및 성과
+
+- **2025 예비예술인 프로젝트 <ArtTech for L.I.F.E> 해커톤** 🥇
+- **Blaybus MVP 해커톤** 🥇
+
+## 🛠️ 기술 스택
+
+### Frontend
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![NestJS](https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & Infrastructure
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
